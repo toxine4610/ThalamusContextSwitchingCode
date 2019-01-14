@@ -1,0 +1,1 @@
+neuro is a class that lets you load up many neuron files into matlab without having them in memory until needed. It takes advantage of the hdf5 filetype to load variables only when they are called.
